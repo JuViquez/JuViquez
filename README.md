@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🚀 About Me  
 
-<!--
-**JuViquez/JuViquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm **Julio Viquez**, a passionate **Full-Stack Developer** with expertise in **Vue.js, TypeScript, javascript, Node.js, Prisma, and PostgreSQL**. I love building scalable, high-performance applications and crafting seamless user experiences.  
 
-Here are some ideas to get you started:
+Beyond traditional web development, I'm deeply interested in **Web3, blockchain, and decentralized applications (dApps)**. I enjoy exploring how smart contracts and blockchain technology can redefine digital interactions in a world that it's quickly heading the to technological singularity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack  
+
+### Frontend  
+- 🚀 Vue.js (Quasar, Composition API)  
+- 🎨 TypeScript & JavaScript  
+- 💅 TailwindCSS, SCSS & Bootstrap  
+
+### Backend  
+- 🏗️ Node.js (Express, NestJS)  
+- 🛢️ PostgreSQL & Prisma ORM  
+
+### Web3  
+- ⚡ Smart Contracts (Solidity)  
+- 🔗 Ethereum, Cardano, Layer 2 solutions
+
+### DevOps & Tools  
+- 🐳 Docker & Kubernetes  
+- ☁️ AWS & Google Cloud
+- 🧪 Playwright & Jest
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/julio-v-70304a150/)  
+- [𝕏](https://x.com/julio_viquez26)  
