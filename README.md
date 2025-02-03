@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Julio Viquez** from Costa Rica, a passionate **Full-Stack Developer** with expertise in **Vue.js, TypeScript, javascript, Node.js, Prisma, and PostgreSQL**. I love building scalable, high-performance applications and crafting seamless user experiences.  
 
-Beyond traditional web development, I'm deeply interested in **Web3, blockchain, and decentralized applications (dApps)**. I enjoy exploring how smart contracts and blockchain technology can redefine digital interactions in a world that it's quickly heading the to technological singularity.  
+Beyond traditional web development, I'm deeply interested in **Web3, blockchain, and decentralized applications (dApps)**. I enjoy exploring how smart contracts and blockchain technology can redefine digital interactions in a world that is quickly heading to the technological singularity.  
 
 ---
 
