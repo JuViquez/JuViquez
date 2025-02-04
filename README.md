@@ -32,4 +32,4 @@ Beyond traditional web development, I'm deeply interested in **Web3, blockchain,
 - [LinkedIn](https://www.linkedin.com/in/julio-v-70304a150/)  
 - [𝕏](https://x.com/julio_viquez26)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuViquez)](https://github.com/anuraghazra/github-readme-stats)
