@@ -33,5 +33,4 @@ Beyond traditional web development, I'm deeply interested in **Web3, blockchain,
 - [𝕏](https://x.com/julio_viquez26)  
 
 <img alt="my-stats" align="left" src="https://github-readme-stats.vercel.app/api?username=JuViquez" />
-[![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuViquez)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuViquez)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my-stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuViquez" />
